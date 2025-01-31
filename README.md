@@ -17,3 +17,10 @@ A successful system must :-
 8. Design the system for scalability and future enhancements.
 9. Ensure data integrity and security.
 10. Provide comprehensive documentation and user support.
+
+# List of Modules :-
+1. ISSUE OF BOOK
+2. RETURN OF BOOK
+3. DISPLAY STUDENT DETAILS
+4. DISPLAY AVAILABLE BOOKS
+5. ADD BOOK TO LIBRARY
