@@ -3,7 +3,7 @@ The aim of this project is to design and implement a Library Management System u
 lists to efficiently manage the books in a library. The system should provide functionalities for 
 issuing books ,returning books , adding book to library, displaying information about books 
 and displaying student details till the books is not returned. 
-The primary goal of an LMS is to facilitate easy access to library resources, improve user 
+The primary goal of an LMS is to facilitate easy access to library resources,improve user 
 experience, and enhance administrative tasks associated with library operations.This project 
 simplifies the task of maintain records because of its user friendly nature.
 A successful system must :-
